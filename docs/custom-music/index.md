@@ -330,7 +330,7 @@ Once done, save and repackage your mod, and you'll find your audio replacement p
 | Name                                                                | Wwise ID   | Notes |
 |:--------------------------------------------------------------------|:-----------|:------|
 | Courthouse_Anticipation_Intro_128bpm_v01                            | 430259659  |       |
-| Courthouse_Anticipation_Intro                                       | 1065362376 |       |
+| Courthouse_Anticipation_Intro                                       | 1065362376 | Inaccurate label. It is the Anticipation Loop |
 | Courthouse_Assault_v02                                              | 312407827  |       |
 | Courthouse_Control_Loop_128bpm_v02                                  | 11410674   |       |
 | Courthouse_Stealth_01_Intro_4Bars_1BarPreEntry                      | 234023302  |       |
@@ -411,10 +411,23 @@ Once done, save and repackage your mod, and you'll find your audio replacement p
 | Bust_Stealth_04_Loop_v01                                            | 262505015  |       |
 | Bust_Stealth_05_Loop_v01                                            | 375570814  |       |
 
-### Delivery Charge / PlaceholderName
+### Delivery Charge / Shiya
 | Name                                                                | Wwise ID   | Notes |
 |:--------------------------------------------------------------------|:-----------|:------|
-|                                     |  |       |
+| Shiya_Anticipation_136bpm_Intro                                     | 767635328  |       |
+| Shiya_Anticipation_Loop                                             | 978379658  |       |
+| Shiya_Assault_136bpm_Loop                                           | 826217477  |       |
+| Shiya_Control_136bpm_Loop                                           | 329699267  |       |
+| Shiya_Transition_Combat_to_Control                                  | 562379422  |       |
+| Shiya_Transition_Any_to_Anticipation                                | 937387658  |       |
+| Shiya_Transition_Stealth_to_Stealth_Intesity_01                     | 511456958  |       |
+| Shiya_Transition_Stealth_to_Stealth_Intensity_02                    | 35462681   |       |
+| Shiya_Transition_Stealth_to_Stealth_Intesity_03                     | 471649904  |       |
+| Shiya_Stealth_01_Intro                                              | 129660720  |       |
+| Shiya_Stealth_02_Loop_136BPM                                        | 505483775  |       |
+| Shiya_Stealth_03_Loop_136BPM                                        | 986919587  |       |
+| Shiya_Stealth_04_Loop_136BPM                                        | 131877437  |       |
+| Shiya_Stealth_05_Loop_136BPM                                        | 330828695  |       |
 
 ### Other / Menus
 | Name                   | Wwise ID   | Notes                                             |
