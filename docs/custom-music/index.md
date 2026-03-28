@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Custom Music
@@ -144,7 +144,7 @@ Once done, save and repackage your mod, and you'll find your audio replacement p
 | ArmoredTransport_Transition_Control_To_Anticipation_166bpm_1barPreEntry  | 380854622  |                        |
 | ArmoredTransport_Transition_Stealth01_To_Stealth02_166bpm_1barPreEntry   | 383061978  |                        |
 | ArmoredTransport_Transition_Stealth02_To_Stealth03_166bpm_2beatsPreEntry | 1037935768 |                        |
-| ArmoredTransport_Stealth_TicksLayer                                      | 462220049  |                        |
+| ArmoredTransport_Stealth_TicksLayer                                      | 462220049  | Played with Suspense 2-5      |
 | ArmoredTransport_Stealth_Intensity01_166bpm_32bars                       | 119619706  |                        |
 | ArmoredTransport_Stealth_Intensity02_166bpm_32bars                       | 945680714  |                        |
 | ArmoredTransport_Stealth_Intensity03_166bpm_32bars_2beatsPreEntry        | 720039556  |                        |
