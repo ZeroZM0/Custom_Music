@@ -64,4 +64,11 @@ This will be what you'll use to make your heist track so it can react accordingl
 
 1. Navigate to the Audio tab via the Project Explorer.
 2. Under the Interactive Music Hierarchy, Create a new Child Music Switch Container under the Default Work Unit or a Work Unit you made.
-3. 
+3. Create as many containers as needed for your heist track. (I.E If have 4 phases (Stealth, Control, Anticipation, Assault) then create 4 containers named accordingly.
+
+You now have a template that you can freely copy and paste for whenever a heist track will be made!
+
+
+### Setting up the Music Switch Container
+1. After copying your template, import your audio to the container via drag and drop or by clicking on import audio.
+2. Drag and drop the audio files to their respective containers, then crea
